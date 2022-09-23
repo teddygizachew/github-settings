@@ -7,7 +7,7 @@ repository:
   name: github-settings
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo
+  description: This if the OG GitHub Settings Repo
 
   # A URL with more information about the repository
   homepage: https://example.github.io/
